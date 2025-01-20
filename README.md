@@ -1,3 +1,5 @@
+<h1>Welcome to FlipArt!</h1>
+
 - 👋 Hi, I’m @FlipArtYT
 - 👀 I’m interested Web Development and stuff
 - 🌱 I’m currently learning ExpressJS and generally JS
@@ -6,7 +8,13 @@
 
 <div style="display:flex; flex-direction:column; margin:3px; box-shadow: 5px 5px 10px;">
   <h2>Stuff about me</h2>
-  <p>Coming soon...</p>
+  <ul>
+    <li>Don't have a lot of experience in programming, but I can make basic applications</li>
+    <li>I mostly program with VS Code (idc if it's bad)</li>
+    <li>Still trying to figure out how to send requests to a server with <span font-style:"italic">POST, PUT, PATCH</span></li>
+    <li>I have a RPI4</li>
+    <li></li>
+  </ul>
 </div>
 
 <!---
