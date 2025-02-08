@@ -11,7 +11,7 @@
 <ul>
   <li>Don't have a lot of experience in programming, but I can make basic applications</li>
   <li>I mostly program with VS Code (idc if it's bad)</li>
-  <li>Still trying to figure out how to send requests to a server with <span style="italic">POST, PUT, and PATCH</span></li>
+  <li>Still trying to figure out how to send requests to a server with <span style="italic">POST, PUT, and PATCH</span>(Maybe it's just using a fetch request and changing the method? idk, but maybe that's it)</li>
   <li>I have a RPI4</li>
   <li>...</li>
 </ul>
