@@ -24,6 +24,7 @@
   <li><a href="https://www.bitview.net/user/FlipArt">Bitview</a></li>
 </ul>
 <br>
+<h2>My Website</h2>
 <a href="https://flipart.neocities.org/" title="Welcome to FlipArt OS 9!">
   <img src="https://flipart.neocities.org/images/flipbadge.gif" alt="FlipArt OS">
 </a>
