@@ -23,6 +23,10 @@
   <li><a href="https://instagram.com/thesquaredone">Instagram</a></li>
   <li><a href="https://www.bitview.net/user/FlipArt">Bitview</a></li>
 </ul>
+<br>
+<a href="https://flipart.neocities.org/" title="Welcome to FlipArt OS 9!">
+  <img src="https://flipart.neocities.org/images/flipbadge.gif" alt="FlipArt OS">
+</a>
 <!---
 FlipArtYT/FlipArtYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
