@@ -24,7 +24,6 @@
   <li><a href="https://www.youtube.com/@FlipAmbigram">YouTube</a></li>
   <li><a href="https://reddit.com/user/MacNcheezOS">Reddit</a></li>
   <li><a href="https://instagram.com/thesquaredone">Instagram</a></li>
-  <li><a href="https://www.bitview.net/user/FlipArt">Bitview</a></li>
 </ul>
 <br>
 <h2>My Website</h2>
