@@ -1,12 +1,13 @@
 <h1>Welcome to FlipArt!</h1>
 <img src="https://yt3.googleusercontent.com/lbOEn2YSDl2ec1gvyRl3jkAeXCiZ2N_a-AlcLlZi3iQFEZBSxm3FIitsONc0xa3aH20bJusifw=s88-c-k-c0x00ffffff-no-rj" width="50">
 
-- 👋 Hi, I’m @FlipArtYT
-- 👀 I’m interested Web Development and stuff
-- 🌱 I’m currently learning ExpressJS and generally JS
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m FlipArt!
+- 🔍 I’m interested Game and Web Development
+- 🏝️ I’m currently trying to learn C++
 - ⚡ Fun fact: Do I have any? idk
+- 🚀 Current Project(s): Silk-DOS (Private)
 
+<h1>Stats</h1>
 ![FlipArtYT's Stats](https://github-readme-stats.vercel.app/api?username=FlipArtYT&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br>
 ![FlipArtYT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FlipArtYT&theme=tokyonight&hide_border=true)<br>
 ![FlipArtYT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlipArtYT&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
