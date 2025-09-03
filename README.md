@@ -2,10 +2,10 @@
 <img src="https://yt3.googleusercontent.com/lbOEn2YSDl2ec1gvyRl3jkAeXCiZ2N_a-AlcLlZi3iQFEZBSxm3FIitsONc0xa3aH20bJusifw=s88-c-k-c0x00ffffff-no-rj" width="50">
 
 - 👋 Hi, I’m FlipArt!
-- 🔍 I’m interested Game and Web Development
-- 🏝️ I’m currently trying to learn C++
-- ⚡ Fun fact: Do I have any? idk
-- 🚀 Current Project(s): Silk-DOS (Private)
+- 🔍 I’m interested Game and App Development (in SilkOS)
+- 🏝️ I’m currently trying to learn C (then C++ maybe)
+- ⚡ Fun fact: My Website hasn't been updated since April 2025
+- 🚀 Current Project(s): Silk-OS and getting an HDD for "my" '04 PC
 
 <h1>Stats</h1>
 
@@ -16,7 +16,7 @@
 <h2>Stuff about me</h2>
 <ul>
   <li>Don't have a lot of experience in programming, but I can make basic applications</li>
-  <li>I mostly program with VS Code (idc if it's bad)</li>
+  <li>I mostly program with VS Code (idc if it's bad) and Sublime on my older T410</li>
   <li>I have a RPI4</li>
   <li>...</li>
 </ul>
