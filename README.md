@@ -10,7 +10,8 @@
 <h1>Stats</h1>
 
 ![FlipArtYT's Stats](https://github-readme-stats.vercel.app/api?username=FlipArtYT&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br>
-![FlipArtYT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FlipArtYT&theme=tokyonight&hide_border=true)<br>
+<!---![FlipArtYT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FlipArtYT&theme=tokyonight&hide_border=true)<br>-->
+<!--- Info: Streak widget left out because of it often failing to display--->
 ![FlipArtYT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlipArtYT&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <h2>Stuff about me</h2>
