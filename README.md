@@ -4,7 +4,7 @@
 - 👋 Hi, I’m FlipArt!
 - 🔍 I’m interested Game and App Development (in SilkOS)
 - 🏝️ I’m currently trying to learn C (then C++ maybe)
-- ⚡ Fun fact: My Website hasn't been updated since April 2025
+- ⚡ Fun fact: My Website has been updated after 7 months
 - 🚀 Current Project(s): Silk-OS and getting an HDD for "my" '04 PC
 
 <h1>Stats</h1>
@@ -16,9 +16,9 @@
 
 <h2>Stuff about me</h2>
 <ul>
-  <li>Don't have a lot of experience in programming, but I can make basic applications</li>
-  <li>I mostly program with VS Code (idc if it's bad) and Sublime on my older T410</li>
-  <li>I have a RPI4</li>
+  <li>Don't have a lot of experience in programming, but I can make basic applications like servers</li>
+  <li>I mostly program with Visual Studio Code on my Mac and older ThinkPad T410</li>
+  <li>I have a Raspberry Pi 4B which I will use to host the Forum Backend for the Silk Project</li>
   <li>...</li>
 </ul>
 
