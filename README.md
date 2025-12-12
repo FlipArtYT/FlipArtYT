@@ -6,8 +6,7 @@
 - 🏝️ I’m currently trying to learn C (then C++ maybe)
 - ⚡ Fun fact: My Website has been updated after 7 months
 - 🚀 Current Project(s):
- - Silk-Forum frontend and release of the final website WITH backend
- - Finish the Silk-Developer-Portal and make the containers actually build SilkOS
+ - Silk Vocal Studio's first version, current challenge is automatically configuring the oto.ini file, there are no good repositories that have good documentation
 
 <h1>Stats</h1>
 
