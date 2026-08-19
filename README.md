@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m FlipArt!
 - 🔍 I’m interested in building random tools in Python
-- 🏝️ I’m currently trying to learn C++
+- 🏝️ I’m currently trying to learn C++ (Currently at copy constructors)
 - ⚡ Fun fact: My Website is practically dead
 - 🚀 Current Project(s):
  - PY-MD2WEB - Planned: Directory input
